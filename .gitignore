@@ -1,0 +1,13 @@
+# Archivos de configuración sensibles
+.env
+
+# Dependencias instaladas con npm
+node_modules/
+
+# Archivos de logs
+logs/
+*.log
+
+# Archivos de compilación
+dist/
+build/
